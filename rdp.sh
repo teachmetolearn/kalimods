@@ -1,5 +1,5 @@
 #!/bin/sh
-echo "[+] Installing Xfce, this will take a while"
+echo "[+] Installing upgrades, Xfce and Xrdp, this will take a while"
 apt update
 apt upgrade
 apt install -y kali-desktop-xfce xrdp
